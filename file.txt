@@ -1,4 +1,5 @@
 My first line in project 
-London is the capital of GB
-Kiev is the capita of Ukraine 
+<<<<<<< HEAD
 PAris is the capical of Frace
+=======
+>>>>>>> parent of 8294575... adding multiple columns
